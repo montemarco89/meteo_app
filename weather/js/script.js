@@ -1,4 +1,5 @@
-const appKey = "ff8d7175962b90de80cf28a7d3fa2a22";
+// insert your OWM appKey
+const appKey = "";
 
 // funzione che recupera il nome della città da cercare
 $( document ).ready(function() {
